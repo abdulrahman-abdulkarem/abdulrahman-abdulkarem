@@ -1,103 +1,51 @@
-<!-- INTRO: Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9AA6B2&center=true&vCenter=true&width=700&lines=Hi+I'm+Abdulrahman+Abdulkarem;Software+Engineer+%7C+IoT+Explorer+%7C+Creative+Thinker;Welcome+to+my+GitHub+profile!">
-</p>
+[![typing banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Abdulrahman+Abdulkarem+-+Software+Engineering+Student;Marketing+%26+Sales+Manager+%40+Leafloat+Robotics;Building+AI+/+Web+/+Mobile+/+IoT+-+in+Arabic+%26+English)](https://github.com/abdulrahman-abdulkarem)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-alrawdhi/)
+[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=aa9bef)](https://x.com/abdullrahmannx1)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=aa9bef)](mailto:abdullrahmannx@gmail.com)
+
+![profile views](https://komarev.com/ghpvc/?username=abdulrahman-abdulkarem&style=flat&color=aa9bef&label=profile+views)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## This is me :)
 
-I’m **Abdulrahman Abdulkarem**, currently pursuing a Bachelor's degree in Software Engineering. My interests span across **AI**, **Web development**, **Mobile apps**, **UI/UX design**, and the **Internet of Things (IoT)**. I’m passionate about blending creativity with technology to build intuitive and impactful digital experiences.
+Hi, I'm **Abdulrahman**, a software engineering student based in Kuala Lumpur, Malaysia 🇲🇾.
+I like turning ideas into working products — across AI, web, mobile, and IoT — and I'm especially drawn to building things that work just as well in Arabic as they do in English.
 
-Currently, I’m diving deeper into the exciting world of **IoT**, learning how devices, code, and connectivity can shape the future. I believe in continuous learning, solving real-world problems, and designing systems that make life smarter and easier.
-
-> “Your most unhappy customers are your greatest source of learning.” — Bill Gates
-
----
-
-## 🧠 Tech Stack
-
-### 👨‍💻 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=java" width="25"/> Java &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="25"/> JavaScript &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="25"/> HTML &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="25"/> CSS &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=php" width="25"/> PHP &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=dart" width="25"/> Dart &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="25"/> Python &nbsp;&nbsp;&nbsp;
-</p>
-
-### ⚙️ Frameworks & Libraries  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> Node.js &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flutter" width="25"/> Flutter &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="25"/> React &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="25"/> Bootstrap &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwindcss" width="25"/> TailwindCSS
-</p>
-
-### 🗄️ Databases & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase" width="25"/> Firebase &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="25"/> MongoDB &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="25"/> MySQL &nbsp;&nbsp;&nbsp;
-</p>
-
-### 🚀 DevOps & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="25"/> Git &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="25"/> GitHub &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="25"/> Figma
-</p>
+- 🤖 **Marketing & Sales Manager at Leafloat Robotics** — a Malaysia-based robotics and AI company, working across Saudi and Malaysian markets.
+- 🎓 **Software Engineering student**, exploring AI, Web development, Mobile apps, UI/UX design, and the Internet of Things.
+- 🌍 Building **Arabic/RTL-first** products and interfaces for MENA and Southeast Asian markets.
+- 🧠 Currently diving deep into **IoT** — how devices, code, and connectivity can shape the future.
+- 💬 Talk to me about **AI**, **Arabic-first UX**, or **IoT** and you'll have my full attention.
 
 ---
 
-## 📊 GitHub Summary & Insights
+## my perfect stack
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrahman-abdulkarem&theme=ayu_mirage" width="90%" />
-</p>
+[![tech stack](https://skillicons.dev/icons?i=java,js,html,css,php,dart,python,nodejs,flutter,react,bootstrap,tailwind,firebase,mongodb,mysql,git,github,figma&perline=9)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulrahman-abdulkarem&theme=ayu_mirage" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulrahman-abdulkarem&theme=ayu_mirage&utcOffset=8" width="45%" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulrahman-abdulkarem&theme=ayu-mirage&hide_border=true" width="90%" />
-</p>
+## signals
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrahman-abdulkarem&theme=ayu_mirage" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulrahman-abdulkarem&theme=ayu_mirage" width="45%" />
-</p>
+| ![productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulrahman-abdulkarem&theme=ayu_mirage&utcOffset=8) | ![repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrahman-abdulkarem&theme=ayu_mirage) |
+| --- | --- |
 
+---
 
+## Numbers matter? ohhh yes.
 
-## 🤝 Let's Connect
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulrahman-abdulkarem&theme=ayu_mirage)
 
-<!-- Typing Text -->
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9AA6B2&width=600&lines=Have+a+project%3F+Need+a+dev%3F+Let's+talk.;I'm+just+an+email+away...;Or+connect+on+your+favorite+platform.">
-</p>
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulrahman-abdulkarem&theme=ayu-mirage&hide_border=true)](https://github-readme-streak-stats.herokuapp.com)
 
-<!-- Icon Buttons: Minimal Round -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdulrahman-alrawdhi/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="LinkedIn" style="border: none;"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/abdullrahmannx1" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="Twitter" style="border: none;"/>
-  </a>
-  &nbsp;
-  <a href="mailto:abdullrahmannx@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" style="border: none;"/>
-  </a>
-</p>
+[![most used languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulrahman-abdulkarem&theme=ayu_mirage)](https://github.com/abdulrahman-abdulkarem)
 
-<!-- Final Message -->
-<p align="center">
-  <em>Let’s collaborate, create, and connect — or just chat over coffee ☕</em>
-</p>
+---
+
+`Build with love · @abdullrahmannx1`
